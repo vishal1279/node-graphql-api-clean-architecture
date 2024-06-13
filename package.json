@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.2",
+    "graphql-tools": "^9.0.1",
+    "joi": "^17.13.1",
+    "mysql2": "^3.10.0",
+    "sequelize": "^6.37.3"
+  },
+  "name": "user-graphql-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
