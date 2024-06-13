@@ -60,7 +60,7 @@ Access the GraphQL Playground at `http://localhost:4000/graphql` to test queries
 
 Example Query
 
-```json
+```
 query {
     getAllUsers {
         id
@@ -72,7 +72,7 @@ query {
 
 Example Mutation
 
-```json
+```
 mutation {
 createUser(id: "1", name: "John Doe", email: "john.doe@example.com") {
         id
